@@ -1,0 +1,1 @@
+This is a standard place to put scripts that are run on the command line, not a place to put modules
